@@ -1,5 +1,5 @@
 # Taylor Swift Event Landing Page
-This is a single-page application built using React that lists the details about an upcoming Event.
+This single-page application is built using React and provides users with detailed information about upcoming events It's a simple and user-friendly way to explore event details
 
 ### Libraries used
 - Material UI
@@ -8,8 +8,8 @@ This is a single-page application built using React that lists the details about
 
 
 ### Installation 
-- Clone this repository using git clone https://github.com/<username>/<repository>.git.
-- Navigate to the project directory using cd <repository>.
-- Install the necessary dependencies using npm install.
-- Start the development server using npm start.
-- Open the application in your browser at http://localhost:3000.
+- Clone this repository using git clone ```https://github.com/<username>/<repository>.git```
+- Navigate to the project directory using ```cd <repository>```
+- Install the necessary dependencies using ```npm install```
+- Start the development server using ```npm start```
+- Open the application in your browser at ```http://localhost:3000```
